@@ -15,10 +15,12 @@
       "language": "en-US",
       "track_app": true,
       "track_iap": true,
-      "iap_ids": []
+      "iap_ids": [],
+      "remark": ""
     }
   ]
 }
+
 ```
 
 - `id`：商店網址 `id` 後面的數字。
