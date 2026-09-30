@@ -1,6 +1,7 @@
 {
   "apps": [
     {
+      "title": "TITLE",
       "id": "6448311069",
       "regions": ["tw", "us", "jp"],
       "language": "en-US",
