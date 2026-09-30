@@ -1,0 +1,12 @@
+{
+  "interval_hours": 3,
+  "request_interval_seconds": 3.2,
+  "request_timeout_seconds": 25,
+  "max_retries": 3,
+  "retry_base_seconds": 5,
+  "missing_confirmation_checks": 3,
+  "notify_initial": false,
+  "notify_new_products": true,
+  "log_level": "INFO",
+  "log_file": null
+}

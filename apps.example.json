@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "id": "6448311069",
+      "regions": ["tw", "us", "jp"],
+      "language": "en-US",
+      "track_app": true,
+      "track_iap": true,
+      "iap_ids": []
+    }
+  ]
+}
