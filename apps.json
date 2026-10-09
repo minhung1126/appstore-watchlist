@@ -8,6 +8,15 @@
       "track_iap": true,
       "iap_ids": [],
       "remark": "上次是什麼時候"
+    },
+    {
+      "id": "6800746478",
+      "regions": ["tw"],
+      "language": "en-US",
+      "track_app": true,
+      "track_iap": true,
+      "iap_ids": [],
+      "remark": "PlainWalk"
     }
   ]
 }
