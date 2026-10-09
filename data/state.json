@@ -13,19 +13,89 @@
           },
           "active": true,
           "missing_checks": 0,
-          "last_seen": "2026-10-09T06:00:46.345282+00:00"
+          "last_seen": "2026-10-09T09:42:58.296691+00:00"
         }
       },
       "app_name": "上次是什麼時候",
-      "last_success": "2026-10-09T06:00:46.345282+00:00"
+      "last_success": "2026-10-09T09:42:58.296691+00:00"
     },
     "6801866888:tw:iap": {
       "initialized": true,
       "products": {},
       "app_name": "上次是什麼時候",
-      "last_success": "2026-10-09T06:00:46.345282+00:00"
+      "last_success": "2026-10-09T09:42:58.296691+00:00"
+    },
+    "6800746478:tw:app": {
+      "initialized": true,
+      "products": {
+        "app": {
+          "value": {
+            "name": "PlainWalk − 歩いた道が地図になる",
+            "price": "0",
+            "currency": "TWD",
+            "kind": "app"
+          },
+          "active": true,
+          "missing_checks": 0,
+          "last_seen": "2026-10-09T09:42:58.296691+00:00"
+        }
+      },
+      "app_name": "PlainWalk − 歩いた道が地図になる",
+      "last_success": "2026-10-09T09:42:58.296691+00:00"
+    },
+    "6800746478:tw:iap": {
+      "initialized": true,
+      "products": {
+        "iap:[\"6809262325\",\"buy\",\"P1M\"]": {
+          "value": {
+            "name": "PlainWalk Plus Monthly",
+            "price": "90",
+            "currency": "TWD",
+            "kind": "iap",
+            "iap_id": "6809262325",
+            "offer_type": "buy",
+            "period": "P1M",
+            "is_subscription": true
+          },
+          "active": true,
+          "missing_checks": 0,
+          "last_seen": "2026-10-09T09:42:58.296691+00:00"
+        },
+        "iap:[\"6809380173\",\"buy\",\"P1Y\"]": {
+          "value": {
+            "name": "PlainWalk Plus Yearly",
+            "price": "890",
+            "currency": "TWD",
+            "kind": "iap",
+            "iap_id": "6809380173",
+            "offer_type": "buy",
+            "period": "P1Y",
+            "is_subscription": true
+          },
+          "active": true,
+          "missing_checks": 0,
+          "last_seen": "2026-10-09T09:42:58.296691+00:00"
+        },
+        "iap:[\"6802852601\",\"buy\",null]": {
+          "value": {
+            "name": "Remove Ads",
+            "price": "190",
+            "currency": "TWD",
+            "kind": "iap",
+            "iap_id": "6802852601",
+            "offer_type": "buy",
+            "period": null,
+            "is_subscription": false
+          },
+          "active": true,
+          "missing_checks": 0,
+          "last_seen": "2026-10-09T09:42:58.296691+00:00"
+        }
+      },
+      "app_name": "PlainWalk − 歩いた道が地図になる",
+      "last_success": "2026-10-09T09:42:58.296691+00:00"
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-10-09T06:00:46.345282+00:00"
+  "last_check": "2026-10-09T09:42:58.296691+00:00"
 }
