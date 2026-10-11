@@ -2,7 +2,9 @@
   "apps": [
     {
       "id": "6801866888",
-      "regions": ["tw"],
+      "regions": [
+        "tw"
+      ],
       "language": "en-US",
       "track_app": true,
       "track_iap": true,
@@ -11,12 +13,25 @@
     },
     {
       "id": "6800746478",
-      "regions": ["tw"],
+      "regions": [
+        "tw"
+      ],
       "language": "en-US",
       "track_app": true,
       "track_iap": true,
       "iap_ids": [],
       "remark": "PlainWalk"
+    },
+    {
+      "id": "505367096",
+      "regions": [
+        "tw"
+      ],
+      "language": "zh-TW",
+      "track_app": true,
+      "track_iap": false,
+      "iap_ids": [],
+      "remark": "世界迷霧（Fog of World）"
     }
   ]
 }
