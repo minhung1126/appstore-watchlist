@@ -32,6 +32,17 @@
       "track_iap": false,
       "iap_ids": [],
       "remark": "世界迷霧（Fog of World）"
+    },
+    {
+      "id": "6806170678",
+      "regions": [
+        "tw"
+      ],
+      "language": "zh-TW",
+      "track_app": true,
+      "track_iap": true,
+      "iap_ids": [],
+      "remark": "拍簿 PiBook－照片整理與修圖"
     }
   ]
 }
