@@ -43,6 +43,17 @@
       "track_iap": true,
       "iap_ids": [],
       "remark": "拍簿 PiBook－照片整理與修圖"
+    },
+    {
+      "id": "6813038536",
+      "regions": [
+        "tw"
+      ],
+      "language": "zh-TW",
+      "track_app": true,
+      "track_iap": true,
+      "iap_ids": [],
+      "remark": "Scutter 照片清理與整理"
     }
   ]
 }
