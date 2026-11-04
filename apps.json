@@ -54,6 +54,17 @@
       "track_iap": true,
       "iap_ids": [],
       "remark": "Scutter 照片清理與整理"
+    },
+    {
+      "id": "6821229555",
+      "regions": [
+        "tw"
+      ],
+      "language": "en-US",
+      "track_app": true,
+      "track_iap": true,
+      "iap_ids": [],
+      "remark": "Camie – Photo View & Import"
     }
   ]
 }
