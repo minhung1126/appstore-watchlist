@@ -65,6 +65,17 @@
       "track_iap": true,
       "iap_ids": [],
       "remark": "Camie – Photo View & Import"
+    },
+    {
+      "id": "6761155734",
+      "regions": [
+        "tw"
+      ],
+      "language": "zh-TW",
+      "track_app": true,
+      "track_iap": true,
+      "iap_ids": [],
+      "remark": "Wheneri: Task Tracker"
     }
   ]
 }
